@@ -1,35 +1,17 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
 Bienvenidxs a
-# Programación con objetos I
+# Mi presentación
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+¡Hola! ¿cómo están? Mi nombre es Mayra García y estoy cursando mi segundo año en la Técnicatura en Programación. En 2019 cursé un año de la carrera de Diseño Gráfico en otra universidad hasta que llegó la pandemía y cambió todos mis planes.
+Me inscribí en la carrera porque siempre me llamó la atención el funcionamiento informático, aunque me cuesta un poco aún tomarle la mano, realmente me gusta y quiero dedicarme en un futuro a esto.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+## Mis gustos
+* Soy una persona muy curiosa y por eso me gusta aprender de todo, por lo cual suelo hacer muchas preguntas.
+* Desde peque me gusta jugar a los videojuegos, actualmente estoy muy viciada al Stardew Valley y al Minecraft. Me gusta probar todo tipo de juegos, aunque soy muy mala en los shooters.
+* Me gusta ver anime desde los 13 años, mi favorito es Fullmetal Alchemist: Brotherhood y Mob Psycho 100, aunque mi genero de anime favorito son los spokons (es divertido porque no hago ningún tipo de deporte).
+* También veo mucho contenido de Youtube y streams de otras plataformas.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+Espero que todos nos llevemos bien y tengamos una cursada exitosa. Muchas gracias por leer 🤍
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+![saludos](oikawahi.gif)
